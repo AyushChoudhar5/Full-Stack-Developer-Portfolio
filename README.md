@@ -7,7 +7,7 @@ Welcome to my personal portfolio website built using HTML, CSS, and JavaScript. 
 
 ## 🔥 Live Demo
 
-👉 [Visit Portfolio](https://ayushchoudhar5.github.io/Web-Developer-Portfolio/)
+👉 [Visit Portfolio](https://ayushchoudhar5.github.io/Full-Stack-Developer-Portfolio/)
 
 ---
 
